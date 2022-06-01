@@ -1,3 +1,49 @@
+* {
+    font-family: 'Verdana', sans-serif;
+    color: #F56D91;
+}
+
+body {
+    background-color: #DFDFDE;
+}
+
+hr {
+    border-width: 5px 0 0 0;
+    border-style: dotted;
+    width: 10%;
+    border-color: #F56D91;
+    margin: 50px auto;
+}
+
+h3 {
+    color: gray;
+}
+
+li {
+    color: #343434;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-two {
+    text-align: center;
+}
+
+.list.lasagne {
+    font-family: 'Arial', sans-serif;
+    font-size: medium;
+}
+
+.header {
+    font-size: larger;
+
+}
+
+
 
 
 
